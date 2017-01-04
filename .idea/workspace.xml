@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1094e171-ac24-4f32-a334-e7a202f668e4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_15_FindKthToTail.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_16_ReverseList.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JianZhiOfferCode.iws" />
@@ -74,15 +74,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_15_FindKthToTail.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_15_FindKthToTail.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_15_FindKthToTail.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            <state relative-caret-position="337">
+              <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
               <folding>
                 <element signature="e#159#160#0" expanded="true" />
                 <element signature="e#189#190#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_16_ReverseList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_16_ReverseList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -158,6 +168,7 @@
         <option value="$PROJECT_DIR$/src/_09_RectCover.java" />
         <option value="$PROJECT_DIR$/src/_14_ReorderOddEven.java" />
         <option value="$PROJECT_DIR$/src/_15_FindKthToTail.java" />
+        <option value="$PROJECT_DIR$/src/_16_ReverseList.java" />
       </list>
     </option>
   </component>
@@ -211,24 +222,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="JianZhiOfferCode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JianZhiOfferCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JianZhiOfferCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_15_FindKthToTail.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -525,7 +518,14 @@
       <option name="project" value="LOCAL" />
       <updated>1483528814048</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="链表倒数第k个节点">
+      <created>1483531466126</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1483531466126</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -570,7 +570,8 @@
     <MESSAGE value="矩形覆盖的问题" />
     <MESSAGE value="调整数组的奇偶顺序" />
     <MESSAGE value="nochange" />
-    <option name="LAST_COMMIT_MESSAGE" value="nochange" />
+    <MESSAGE value="链表倒数第k个节点" />
+    <option name="LAST_COMMIT_MESSAGE" value="链表倒数第k个节点" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -666,12 +667,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_15_FindKthToTail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="337">
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
           <folding>
             <element signature="e#159#160#0" expanded="true" />
             <element signature="e#189#190#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_16_ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
