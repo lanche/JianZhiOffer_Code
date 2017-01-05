@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1094e171-ac24-4f32-a334-e7a202f668e4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_24_VerfifySequenceOfBST.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_24_VerfifySequenceOfBST.java" afterPath="$PROJECT_DIR$/src/_24_VerfifySequenceOfBST.java" />
     </list>
     <ignored path="JianZhiOfferCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +27,8 @@
       <file leaf-file-name="_24_VerfifySequenceOfBST.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/_24_VerfifySequenceOfBST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+            <state relative-caret-position="285">
+              <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -517,7 +517,14 @@
       <option name="project" value="LOCAL" />
       <updated>1483579652106</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="二叉搜索树的后序遍历">
+      <created>1483601994358</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1483601994358</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -571,7 +578,8 @@
     <MESSAGE value="包含min函数的栈" />
     <MESSAGE value="栈的压入和弹出序列" />
     <MESSAGE value="从上至下打印二叉树" />
-    <option name="LAST_COMMIT_MESSAGE" value="从上至下打印二叉树" />
+    <MESSAGE value="二叉搜索树的后序遍历" />
+    <option name="LAST_COMMIT_MESSAGE" value="二叉搜索树的后序遍历" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -759,8 +767,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_24_VerfifySequenceOfBST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+        <state relative-caret-position="285">
+          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
           <folding />
         </state>
       </provider>

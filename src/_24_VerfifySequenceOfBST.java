@@ -40,10 +40,10 @@ public boolean VerifySquenceOfBST(int[] sequence){
         return false;
     int i=0;
     while(--len>0){
-        while (sequence[i++]<sequence[len]){
+        while (sequence[i]<sequence[len]){
             i++;
         }
-        while (sequence[i++]>sequence[len]){
+        while (sequence[i]>sequence[len]){
             i++;
         }
         if(i<len)
