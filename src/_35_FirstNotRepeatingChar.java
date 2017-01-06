@@ -16,10 +16,11 @@ public class _35_FirstNotRepeatingChar {
         for (int i=0;i<hashmap.length;i++){
             hashmap[string[i]]++;
         }
-        for (int j=0;j<string.length;j++){
-            if (hashmap[string[j]]>0)
-                return string[j];
+        int index=0;
+        for (;index<string.length;index++){
+            if (hashmap[string[index]]==1)
+                break;
         }
-        return 0;
+        return index;
     }
 }
